@@ -6,10 +6,10 @@
 - 🌎 Languages: 🇧🇷/🇨🇦.
 - 🤣 Fun fact: I'm descendent from japanese (Sansei), but cannot speak japanese at all.
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/gustavokoichi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavokoichi&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokoichi&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokoichi&layout=compact&langs_count=5&theme=darcula"/>
 </div>
   
 <div style="display: inline_block"><br>
