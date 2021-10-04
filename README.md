@@ -7,14 +7,12 @@
 - 🤣 Fun fact: I'm descendent from japanese (Sansei), but cannot speak japanese at all.
 - Still building 👇
 
-<div>
   <a href="https://github.com/gustavokoichi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavokoichi&show_icons=true&theme=bear&include_all_commits=true&count_private=true&repo=github-readme-stats"/>
   </a>
   <a href="https://github.com/gustavokoichi/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokoichi&layout=compact&langs_count=5&theme=bear&repo=convoychat"/>
   </a>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
