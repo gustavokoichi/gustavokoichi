@@ -5,12 +5,15 @@
 - 💻 Currently learning: Javascript and how to use GitHub.
 - 🌎 Languages: 🇧🇷/🇨🇦.
 - 🤣 Fun fact: I'm descendent from japanese (Sansei), but cannot speak japanese at all.
-- Still building 
+- Still building 👇
 
 <div>
-  <a href="https://github.com/gustavokoichi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavokoichi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokoichi&layout=compact&langs_count=5&theme=dracula"/>
+  <a href="https://github.com/gustavokoichi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavokoichi&show_icons=true&theme=bear&include_all_commits=true&count_private=true&repo=github-readme-stats"/>
+  </a>
+  <a href="https://github.com/gustavokoichi/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokoichi&layout=compact&langs_count=5&theme=bear&repo=convoychat"/>
+  </a>
 </div>
   
 <div style="display: inline_block"><br>
