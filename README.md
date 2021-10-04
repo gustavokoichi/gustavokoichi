@@ -5,6 +5,7 @@
 - 💻 Currently learning: Javascript and how to use GitHub.
 - 🌎 Languages: 🇧🇷/🇨🇦.
 - 🤣 Fun fact: I'm descendent from japanese (Sansei), but cannot speak japanese at all.
+- Still building 
 
 <div>
   <a href="https://github.com/gustavokoichi">
