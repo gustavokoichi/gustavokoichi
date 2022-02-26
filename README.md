@@ -6,11 +6,11 @@
 - 🌎 Languages: 🇧🇷/🇨🇦.
 - 🤣 Fun fact: I'm descendent from japanese (Sansei), but cannot speak japanese at all.
 
-  <a href="https://github.com/gustavokoichi/github-readme-stats">
+<!--   <a href="https://github.com/gustavokoichi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavokoichi&show_icons=true&theme=bear&include_all_commits=true&count_private=true&repo=github-readme-stats"/>
-  </a>
+  </a> -->
 <!--   <a href="https://github.com/gustavokoichi/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokoichi&layout=compact&langs_count=5&theme=bear&repo=convoychat"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokoichi&layout=compact&theme=bear"/>
   </a> -->
   
 <div style="display: inline_block"><br>
