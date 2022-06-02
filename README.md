@@ -2,8 +2,8 @@
 
 
 - 👉 Changing carrers from tourism specialist to programming.
-- 💻 Currently learning: Javascript and how to use GitHub.
-- 🌎 Languages: 🇧🇷/🇨🇦.
+- 💻 Currently learning: Java/OOP.
+- 🌎 Languages: BR/EN.
 - 🤣 Fun fact: I'm descendent from japanese (Sansei), but cannot speak japanese at all.
 
 <!--   <a href="https://github.com/gustavokoichi/github-readme-stats">
