@@ -2,7 +2,7 @@
 
 
 - 👉 Changing carrers from tourism specialist to programming.
-- 💻 Currently learning: Java/OOP.
+- 💻 Currently learning: Python.
 - 🌎 Languages: BR/EN.
 - 🤣 Fun fact: I'm descendent from japanese (Sansei), but cannot speak japanese at all.
 
