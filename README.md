@@ -1,8 +1,8 @@
 ### Hi there. I'm Gustavo Koichi and I...
 
 
-- 👉 Changing carrers from tourism specialist to programming.
-- 💻 Currently learning: Python.
+- 👉 Changing carrers from tourism specialist to I.T area.
+- 💻 Currently learning: Python and LLM.
 - 🌎 Languages: BR/EN.
 - 🤣 Fun fact: I'm descendent from japanese (Sansei), but cannot speak japanese at all.
 
